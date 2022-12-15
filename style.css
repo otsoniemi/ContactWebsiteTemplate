@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.67em 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+}
+
+a {
+  color: #0084b4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
